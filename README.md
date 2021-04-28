@@ -1,4 +1,4 @@
-Hi, I’m Andalib Shams, currently doing my PhD in Civil Engineering at Iowa State University. I am currently working on adaptive traffic signal control. 
+Hi, I’m Andalib
 
 <!---
 andalibshams/andalibshams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
